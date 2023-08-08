@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\bin\Debug\net6.0\Do_while_udy.exe
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\bin\Debug\net6.0\Do_while_udy.deps.json
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\bin\Debug\net6.0\Do_while_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\bin\Debug\net6.0\Do_while_udy.dll
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\bin\Debug\net6.0\Do_while_udy.pdb
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.dll
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\refint\Do_while_udy.dll
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.pdb
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\Do_while_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Do_while_udy\Do_while_udy\obj\Debug\net6.0\ref\Do_while_udy.dll
